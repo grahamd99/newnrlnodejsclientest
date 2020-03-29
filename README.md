@@ -1,2 +1,2 @@
 # newnrlnodejsclientest
-Yet another example node.js client to test NRL RI
+Yet another great example node.js client to test NRL RI
